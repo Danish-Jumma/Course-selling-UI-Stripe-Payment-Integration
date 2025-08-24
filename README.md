@@ -1,14 +1,24 @@
 # 📚 Course Selling App  
 
-A modern Flutter project with a clean and responsive UI for selling online courses.  
+A modern Flutter project with a clean and responsive UI for browsing and purchasing online courses.  
 Integrated with **Stripe Payment Gateway** for secure and seamless checkout.  
+
+---
+
+## 📱 Screenshots  
+
+### 🏠 Home Screen  
+<p float="left">
+  <img src="screenshots/home.jpeg" alt="Home Screen" width="250"/>
+  <img src="screenshots/payment_sheet.jpeg" alt="Payment Screen" width="250"/>
+</p>  
 
 ---
 
 ## 🚀 Features  
 
 ✅ Modern Flutter UI for Course Marketplace  
-✅ Course Listings with Details Page  
+✅ Browse and View Course Details  
 ✅ Stripe Payment Integration 💳  
 ✅ User Authentication (optional)  
 ✅ Dark Mode Support  
@@ -36,4 +46,4 @@ If you’d like to fix a bug or suggest a feature, feel free to **open an issue*
 
 ## ⭐ Show your support  
 
-If you like this project, **give it a star ⭐** on GitHub — it helps others discover it too!  
+If you like this project, **give it a star ⭐** on GitHub — it helps others discover it too!
